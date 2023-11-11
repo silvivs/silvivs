@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Engineering student at the Federal University of Amazonas, 2nd year | QA Intern at INDT. <br>Passionate about technology, programming and space!
+I'm Software Engineering student at the Federal University of Amazonas, 2nd year | Software QA Analyst JR at INDT. <br>Passionate about technology, programming and space!
 
 
 ## 🌐 Socials:
