@@ -1,4 +1,4 @@
-# Philipe Silva| Software Engineering & QA
+# Philipe Silva | Software Engineering & QA
 
 <p align="center">
   <a href="https://linkedin.com/in/silvivs">
