@@ -13,12 +13,12 @@
 
 ## About Me
 
-Software Engineering student at the Federal University of Amazonas (UFAM) and Software QA Analyst with hands-on experience in mobile (Android/iOS) and software testing[cite: 3]. Focused on software quality, exploratory and regression testing, automated test flows, and R&D technical documentation[cite: 3].
+Software Engineering student at the Federal University of Amazonas (UFAM) and Software QA Analyst with hands-on experience in mobile (Android/iOS) and software testing. Focused on software quality, exploratory and regression testing, automated test flows, and R&D technical documentation.
 
-- **Current Role:** Software QA Analyst at INDT (Instituto de Desenvolvimento Tecnológico)[cite: 3].
-- **Education:** B.S. in Software Engineering at Federal University of Amazonas (UFAM)[cite: 3].
-- **Core Focus:** Mobile Testing (Android & iOS), API Testing, Non-functional & Regression Testing, and Test Automation[cite: 3].
-- **Methodologies & Practices:** Agile (Scrum & Kanban), Clean Code, Algorithms, and R&D Documentation[cite: 3].
+- **Current Role:** Software QA Analyst at INDT (Instituto de Desenvolvimento Tecnológico).
+- **Education:** B.S. in Software Engineering at Federal University of Amazonas (UFAM).
+- **Core Focus:** Mobile Testing (Android & iOS), API Testing, Non-functional & Regression Testing, and Test Automation.
+- **Methodologies & Practices:** Agile (Scrum & Kanban), Clean Code, Algorithms, and R&D Documentation.
 
 ---
 
@@ -57,6 +57,6 @@ Software Engineering student at the Federal University of Amazonas (UFAM) and So
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/silvivs](https://www.linkedin.com/in/silvivs)[cite: 3]
-- **Email:** p.silvivs@gmail.com[cite: 3]
-- **GitHub:** [github.com/silvivs](https://github.com/silvivs)[cite: 3]
+- **LinkedIn:** [linkedin.com/in/silvivs](https://www.linkedin.com/in/silvivs)
+- **Email:** p.silvivs@gmail.com
+- **GitHub:** [github.com/silvivs](https://github.com/silvivs)
