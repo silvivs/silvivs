@@ -41,18 +41,6 @@ Software Engineering student at the Federal University of Amazonas (UFAM) and So
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvivs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvivs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
----
-
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/silvivs](https://www.linkedin.com/in/silvivs)
