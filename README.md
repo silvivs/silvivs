@@ -44,7 +44,6 @@ Software Engineering student at the Federal University of Amazonas (UFAM) and So
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=silvivs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
@@ -52,7 +51,6 @@ Software Engineering student at the Federal University of Amazonas (UFAM) and So
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvivs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ## Contact
